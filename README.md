@@ -12,7 +12,7 @@ I am a developer who is interested in using modern technologies to build scalabl
 ## 💻 Frameworks
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="20" height="20"> React
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fboringowl.io%2Ftag%2Fnext-js&psig=AOvVaw3vWegq2uBp6pVm6dFu1Mmo&ust=1672805927697000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCtjOrFqvwCFQAAAAAdAAAAABA_" alt="Next.js" width="20" height="20"> Next.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="20" height="20"> Next.js
 
 ## 🔧 Other tools
 
