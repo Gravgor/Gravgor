@@ -20,7 +20,7 @@ I am a developer who is interested in using modern technologies to build scalabl
 
 Here are some stats about my activity on GitHub:
 
-![gravgor](https://github-readme-stats.app/api?username=Gravgor&theme=cobalt)
+![gravgor](https://github-readme-stats.vercel.app/api?username=Gravgor&theme=cobalt) 
 
 Thank you for visiting my profile. I hope you find something interesting or useful here.
 
