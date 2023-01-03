@@ -1,6 +1,8 @@
 # Welcome to my GitHub profile!
 
-I am a developer who is interested in using modern technologies to build scalable and reliable applications.
+Hi, my name is Marceli Borowczak and I am an 18-year-old developer who is passionate about using modern technologies to build scalable and reliable applications. I have experience working with a variety of programming languages and frameworks, and I am always looking to learn and expand my skillset.
+
+On this GitHub profile, you will find some of the projects I have worked on and contributed to. I hope you find them interesting and informative.
 
 ## 🌐 Languages
 
