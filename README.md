@@ -4,7 +4,7 @@ I am a developer who is interested in using modern technologies to build scalabl
 
 ## 🌐 Languages
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TypeScript_Logo.svg/1200px-TypeScript_Logo.svg.png" alt="TypeScript" width="20" height="20"> Typescript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="20" height="20"> Typescript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="20" height="20"> JavaScript
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="20" height="20"> C#
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="20" height="20"> Python
