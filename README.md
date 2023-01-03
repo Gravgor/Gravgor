@@ -1,11 +1,27 @@
+# Welcome to my GitHub profile!
 
+I am a developer who is interested in using modern technologies to build scalable and reliable applications.
 
+## 🌐 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravgor&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TypeScript_Logo.svg/1200px-TypeScript_Logo.svg.png" alt="TypeScript" width="20" height="20"> Typescript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="20" height="20"> JavaScript
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="C#" width="20" height="20"> C#
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="20" height="20"> Python
 
+## 💻 Frameworks
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="20" height="20"> React
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nextjs.png/1200px-Nextjs.png" alt="Next.js" width="20" height="20"> Next.js
 
-![gravgor](https://github-readme-stats.vercel.app/api?username=Gravgor&theme=cobalt)
+## 🔧 Other tools
 
-![Javascript](https://camo.githubusercontent.com/d0c771a97e130353f0c8e9badd8f4e9333a2679fb8ab091a5f70ced84f36f58a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c6174266c6f676f3d6a617661736372697074)
-![Typescript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prisma-Logo.svg/1200px-Prisma-Logo.svg.png" alt="Prisma" width="20" height="20"> Prisma
+
+Here are some stats about my activity on GitHub:
+
+![gravgor](https://github-readme-stats.app/api?username=Gravgor&theme=cobalt)
+
+Thank you for visiting my profile. I hope you find something interesting or useful here.
+
+Feel free to contact me if you have any questions or want to collaborate on a project.
