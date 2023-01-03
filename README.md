@@ -16,7 +16,7 @@ I am a developer who is interested in using modern technologies to build scalabl
 
 ## 🔧 Other tools
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prisma-Logo.svg/1200px-Prisma-Logo.svg.png" alt="Prisma" width="20" height="20"> Prisma
+- <img src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" alt="Prisma" width="20" height="20"> Prisma
 
 Here are some stats about my activity on GitHub:
 
