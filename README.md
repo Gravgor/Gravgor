@@ -17,7 +17,7 @@ On this GitHub profile, you will find some of the projects I have worked on and 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="20" height="20"> React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="20" height="20"> Next.js
 - <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="20" height="20"> Gin (for Go)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" height="20"> Express.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="240" height="20"> Express.js
 
 ## 🔧 Other tools
 
