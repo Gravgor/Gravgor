@@ -17,12 +17,14 @@ On this GitHub profile, you will find some of the projects I have worked on and 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="20" height="20"> React
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="20" height="20"> Next.js
 - <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="20" height="20"> Gin (for Go)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="240" height="20"> Express.js
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="20" height="20"> Express.js
 
 ## 🔧 Other tools
 
 - <img src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" alt="Prisma" width="20" height="20"> Prisma
 - <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="Chakra UI" width="20" height="20"> Chakra UI
+- <img src="https://mantine.js.org/static/img/mantine.png" alt="Mantine" width="20" height="20"> Mantine
+- <img src="https://mui.com/static/logo.png" alt="Mantine" width="20" height="20"> Mantine
 
 Here are some stats about my activity on GitHub:
 
