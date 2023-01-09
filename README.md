@@ -22,6 +22,7 @@ On this GitHub profile, you will find some of the projects I have worked on and 
 ## 🔧 Other tools
 
 - <img src="https://cdn.cdnlogo.com/logos/p/25/prisma.svg" alt="Prisma" width="20" height="20"> Prisma
+- <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui-logo/master/static/chakra-ui-logo.svg" alt="Chakra UI" width="20" height="20"> Chakra UI
 
 Here are some stats about my activity on GitHub:
 
