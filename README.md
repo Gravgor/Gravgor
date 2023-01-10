@@ -30,6 +30,7 @@ Here are some stats about my activity on GitHub:
 
 ![gravgor](https://github-readme-stats.vercel.app/api?username=Gravgor&theme=cobalt) 
 
+
 Here are my language stats on Github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravgor&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
