@@ -1,5 +1,5 @@
 🚀 **Welcome to My GitHub Profile!**  
-Hi, I’m **Marceli Borowczak**, an 19-year-old developer passionate about building scalable and reliable applications using modern technologies. I love experimenting with new frameworks and tools, always aiming to improve my skills and deliver high-performance solutions.
+Hi, I’m **Marceli Borowczak**, an 20-year-old developer passionate about building scalable and reliable applications using modern technologies. I love experimenting with new frameworks and tools, always aiming to improve my skills and deliver high-performance solutions.
 
 On this GitHub profile, you’ll find a collection of projects I’ve worked on, from personal explorations to larger, more polished applications. I hope you find them interesting, and maybe even inspiring! 😊
 
