@@ -1,38 +1,74 @@
-🚀 **Welcome to My GitHub Profile!**  
-Hi, I’m **Marceli Borowczak**, an 20-year-old developer passionate about building scalable and reliable applications using modern technologies. I love experimenting with new frameworks and tools, always aiming to improve my skills and deliver high-performance solutions.
+# 👋 Hey there, I’m Marceli Borowczak
 
-On this GitHub profile, you’ll find a collection of projects I’ve worked on, from personal explorations to larger, more polished applications. I hope you find them interesting, and maybe even inspiring! 😊
+**Full-Stack Developer | Indie Hacker | Tech Explorer**  
+20 y/o dev passionate about building fast, scalable, and delightful products.  
+I specialize in full-stack web development with a focus on performance, clean architecture, and great DX.
 
----
-
-### 🌐 **Languages**
-- **TypeScript**  
-- **JavaScript**  
-- **Python**  
-- **GoLang**
-
-### 💻 **Frameworks**
-- **React**  
-- **Svelte**  
-- **Next.js**  
-- **Gin (GoLang)**  
-- **Express.js**
-
-### 🔧 **Other Tools**
-- **Prisma**  
-- **Chakra UI**  
-- **Mantine**  
-- **MUI**
+I love working on projects that solve real problems — from building robust backends in **Go** and **TypeScript** to crafting smooth UIs with **React** and **SvelteKit**.
 
 ---
 
-### 📌 **Featured Project: Landmark API**
-One of my biggest projects to date is the **Landmark API**. This is a full-fledged RESTful API built in **GoLang**, providing detailed information on landmarks across the world. It’s packed with advanced features like JWT authentication, role-based access control, rate limiting, and even Redis caching for performance optimization. The API supports complex querying, including filtering, pagination, and full-text search, making it a powerful tool for anyone looking to manage or access landmark data.
+## 🚀 What I Do
 
-Feel free to explore the **Landmark API** and other projects! They showcase my journey in mastering GoLang, front-end frameworks like React, and various tools for creating high-performance applications.
-
-Let’s collaborate and build something amazing together! 😊
+- 🛠️ Build full-stack apps from idea → launch  
+- 🧠 Work on AI/ML-assisted features (prompt design, embeddings, fine-tuning)  
+- 📦 Develop scalable APIs with proper auth, caching, rate-limiting & DB design  
+- 🎨 Craft clean frontends using modern frameworks and component libraries  
+- 🔍 Learn fast, ship faster — love trying new tech and iterating rapidly
 
 ---
 
-#GitHub #OpenSource #FullStackDeveloper #GoLang #React #APIDevelopment #SoftwareEngineering #WebDevelopment #TypeScript #DeveloperJourney
+## 🧠 Tech Stack
+
+### 🗣️ Languages  
+`TypeScript` · `Go` · `JavaScript` · `Python`
+
+### ⚙️ Frameworks & Runtimes  
+`Next.js` · `SvelteKit` · `React` · `Gin (Go)` · `Express`
+
+### 🛠️ Tools & Libraries  
+`Prisma` · `Redis` · `PostgreSQL` · `Zod` · `Chakra UI` · `Mantine` · `MUI` · `Framer Motion`
+
+### ☁️ DevOps & Infra  
+`Vercel` · `DigitalOcean` · `Docker` · `Railway` · `Upstash` · `Supabase`
+
+---
+
+## 📌 Featured Project: **Landmark API**
+
+A robust, production-grade REST API built in **Go** for landmark data worldwide.
+
+Features:
+- 🔐 JWT Auth + Role-Based Access
+- ⚡ Redis Caching & Rate Limiting
+- 🔍 Full-Text Search, Filtering, Pagination
+- 📦 Clean architecture, scalable design
+
+> Want a real-world GoLang API example? This is it.  
+
+
+---
+
+## 📂 Explore My Projects
+
+You’ll find:
+- 🤖 AI-powered tools  
+- 🗺️ Travel & map-based apps  
+- 🔐 Secure APIs and backends  
+- 📱 Frontend UIs with React/SvelteKit  
+- 🧪 Experiments & learning playgrounds
+
+---
+
+## 🤝 Let’s Connect
+
+Got an idea or want to collaborate? I’m open to freelance projects, startup collabs, or just nerdy chats.
+
+- 🌍 [Website](https://marceliborowczak.vercel.app)  
+- ✉️ marceliborowczak@gmail.com  
+
+---
+
+> _"Build fast. Learn faster. Keep shipping."_ 🚢
+
+#GoLang #React #TypeScript #NextJS #OpenSource #SoftwareEngineering #FullStackDeveloper #DevLife #IndieDev
